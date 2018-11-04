@@ -1,4 +1,4 @@
-# Tìm hiểu về html 5 vs css3
+# Tìm hiểu về html 5
 ### Cấu trúc 1 file HTML 5 gồm các thẻ
   1. SECTION :  là thẻ tạo 1 khu vực bao gồm những nội dung có cùng tiêu đề luôn có heading đi kèm cho biết chủ đề của khu vực đó (thẻ h)
   2. ARTICLE :được sử dụng cho các nội dung khép kín, độc lập với phần còn lại của trang web
